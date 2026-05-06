@@ -41,7 +41,7 @@ on:
       add_kpm:
         description: "Add KPM (SukiSU/ReSukiSU)"
         type: boolean
-        default: false
+        default: true
       sukisu_commit:
         description: "SukiSU commit (empty = pinned default)"
         type: string
