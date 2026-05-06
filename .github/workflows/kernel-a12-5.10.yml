@@ -52,7 +52,7 @@ on:
         options:
           - generic
           - lake
-        default: "lake"
+        default: "mondrian"
   workflow_call:
     inputs:
       ksu_variant:
