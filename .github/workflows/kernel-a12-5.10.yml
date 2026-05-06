@@ -52,6 +52,7 @@ on:
         options:
           - generic
           - lake
+          - mondrian
         default: "mondrian"
   workflow_call:
     inputs:
