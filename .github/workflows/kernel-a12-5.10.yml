@@ -17,7 +17,7 @@ on:
           - ReSukiSU
           - WKSU
           # - RKSU  # no SUSFS integration — deferred
-        default: "SukiSU"
+        default: "ReSukiSU"
       add_susfs:
         description: "Add Enhanced SUSFS"
         type: boolean
