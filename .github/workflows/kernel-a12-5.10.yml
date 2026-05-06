@@ -81,7 +81,7 @@ on:
         default: ""
       device_codename:
         type: string
-        default: "lake"
+        default: "mondrian"
 
 jobs:
   download-dependencies:
